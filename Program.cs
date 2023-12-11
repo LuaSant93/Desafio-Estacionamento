@@ -30,7 +30,7 @@ while (exibirMenu)
     Console.WriteLine("4 - Encerrar");
 
     switch (Console.ReadLine())
-    {
+    { 
         case "1":
             es.AdicionarVeiculo();
             break;
